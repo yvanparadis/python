@@ -63,5 +63,5 @@ function counter() {
 }
 
 const increment = counter();
-console.log(increment()); // Output: 1
-console.log(increment()); // Output: 2
+console.log(increment()); 
+console.log(increment()); 
