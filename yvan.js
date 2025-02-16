@@ -4,8 +4,8 @@ function greet(name) {
 }
 
 // 2. Function Expression for Addition
-const add = function(a, b) {
-    return a + b;
+const add = function(yvan, b) {
+    return yvan + b;
 };
 
 // 3. Arrow Function for Multiplication
